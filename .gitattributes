@@ -1,1 +1,2 @@
 * linguist-language=Elm
+*.html linguist-detectable=false
